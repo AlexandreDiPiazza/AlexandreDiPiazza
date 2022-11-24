@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandre! 
+### Hi there, I'm Alexandre! :star: 
 Master's student in Data Science at EPFL, currently doing my Master Thesis at Harvard University. Please find some of my research papers in the "Project-Papers" repo.
 
 
