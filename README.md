@@ -10,5 +10,11 @@ Master's student in Data Science at EPFL, currently doing my Master Thesis at Ha
 ## Skills
 
 ![Cool image](./Tensorflow_logo.svg.png =100x20)
+<img src="./python_logo.svg.png" width="200">
+<img src="./pytorch_ogo.svg.png" width="200">
 <img src="./Tensorflow_logo.svg.png" width="200">
+<img src="./pandas_logo.svg.png" width="200">
+<img src="./Postgresql_elephant.svg" width="200">
+
+
 
