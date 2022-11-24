@@ -1,13 +1,11 @@
 ### Hi there, I'm Alexandre! 
+Master's student in Data Science at EPFL, currently doing my Master Thesis at Harvard University. Please find some of my research papers in the "Project-Papers" repo.
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a visiting researcher at Harvard University. My work focuses on segmentation models in Connectomics
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working as a visiting researcher at Harvard University. My work focuses on segmentation models in Connectomics.
+- :page_facing_up: Some of my research papers: "Project-Papers" repo
 - 📫 How to reach me: alexandredipiazza@fas.harvard.edu 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Soccer Fan
+
+## Skills
 
