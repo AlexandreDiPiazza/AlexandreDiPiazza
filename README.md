@@ -11,7 +11,7 @@ Master's student in Data Science at EPFL, currently doing my Master Thesis at Ha
 
 
 ![Cool image](./python_logo.png)
-![Cool image](./pytorch _logo.png)
+![Cool image](./pytorch_logo.png)
 ![Cool image](./tensorflow.png)
 ![Cool image](./pandas_logo.png)
 ![Cool image](./Postgresql_elephant.png)
