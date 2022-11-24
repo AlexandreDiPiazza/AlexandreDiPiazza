@@ -10,11 +10,11 @@ Master's student in Data Science at EPFL, currently doing my Master's Thesis at 
 ## Skills
 
 
-![Cool image](./python_logo.png)
-![Cool image](./pytorch_logo.png)
-![Cool image](./tensorflow.png)
-![Cool image](./pandas_logo.png)
-![Cool image](./Postgresql_elephant.png)
+![Cool image](./logos/python_logo.png)
+![Cool image](./logos/pytorch_logo.png)
+![Cool image](./logos/tensorflow.png)
+![Cool image](./logos/pandas_logo.png)
+![Cool image](./logos/Postgresql_elephant.png)
 
 
 
