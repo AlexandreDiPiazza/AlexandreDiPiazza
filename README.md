@@ -1,5 +1,5 @@
 ### Hi there, I'm Alexandre! :star: 
-Master's student in Data Science at EPFL, currently doing my Master Thesis at Harvard University. Please find some of my research papers in the "Project-Papers" repo.
+Master's student in Data Science at EPFL, currently doing my Master's Thesis at Harvard University. Please find some of my research papers in the "Project-Papers" repo.
 
 
 - 🔭 I’m currently working as a visiting researcher at Harvard University. My work focuses on segmentation models in Connectomics.
