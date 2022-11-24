@@ -9,4 +9,4 @@ Master's student in Data Science at EPFL, currently doing my Master Thesis at Ha
 
 ## Skills
 
-![plot](Tensorflow_logo.svg.png)
+![plot](Tensorflow_logo.svg.png | width=10)
