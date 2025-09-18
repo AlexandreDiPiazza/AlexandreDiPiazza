@@ -1,6 +1,7 @@
 ### Hi there, I'm Alexandre! :star: 
 
-Currently ML research eng at Dynamo AI focusing on CV, Semi-Supervised and Federated Learning.
+Currently ML research eng at Dynamo AI focusing on Safety AI and Evaluating LLMs
+Previously working on CV, Semi-Supervised and Federated Learning.
 
 MSc at EPFL
 
