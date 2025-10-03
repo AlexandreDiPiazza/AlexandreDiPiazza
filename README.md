@@ -8,7 +8,6 @@ MSc at EPFL
 - 🔭 I was previsouly a visiting researcher at Harvard University. My work focuses on segmentation models in Connectomics.
 - :page_facing_up: Some of my research papers: "Project-Papers" repo
 - 📫 How to reach me: alexandredipiazza98@gmail.com
-- ⚡ Fun fact: Soccer Fan
 
 ## Skills
 
